@@ -1,0 +1,18 @@
+{
+  "obsidian-underline:toggle-link-block": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "3"
+    }
+  ],
+  "obsidian-underline:toggle-link-heading": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "6"
+    }
+  ]
+}
